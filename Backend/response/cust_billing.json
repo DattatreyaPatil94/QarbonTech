@@ -1,0 +1,20 @@
+{
+    "ZQNEM": {
+        "seat_no": "a001",
+        "name": "dattu",
+        "email": "dattu@gmail.com",
+        "payment_method": "UPI",
+        "price": 0,
+        "id": "string",
+        "payment_status": "booked"
+    },
+    "W5lfl": {
+        "seat_no": "a001",
+        "name": "string",
+        "email": "example@gmail.com",
+        "payment_method": "UPI",
+        "price": 0,
+        "id": "W5lfl",
+        "payment_status": "confirmed"
+    }
+}

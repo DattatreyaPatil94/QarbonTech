@@ -1,0 +1,152 @@
+{
+    "fvRc": {
+        "title": "salaar",
+        "genre": "action thriller",
+        "current_date": "2024-01-19T09:03:20.134000Z",
+        "seats": [
+            {
+                "seat_no": "A12",
+                "status": "booked"
+            }
+        ],
+        "duration": 120,
+        "id": "fvRc",
+        "release_date": "2024-01-29T14:33:36.793062",
+        "Days_after_release": 10
+    },
+    "YNZN": {
+        "title": "kgf",
+        "genre": "action thriller",
+        "current_date": "2024-01-19T09:03:20.134000Z",
+        "seats": [
+            {
+                "seat_no": "B15",
+                "status": "booked"
+            }
+        ],
+        "duration": 180,
+        "id": "YNZN",
+        "release_date": "2024-01-29T14:34:15.221227",
+        "Days_after_release": 10
+    },
+    "af": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-19T09:04:42.259000Z",
+        "seats": [
+            {
+                "seat_no": "string",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "af",
+        "release_date": "2024-01-29T14:34:44.634554",
+        "Days_after_release": 10
+    },
+    "DOOk": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-19T09:04:42.259000Z",
+        "seats": [
+            {
+                "seat_no": "string",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "DOOk",
+        "release_date": "2024-01-29T14:34:50.469805",
+        "Days_after_release": 10
+    },
+    "rwm": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-19T09:04:42.259000Z",
+        "seats": [
+            {
+                "seat_no": "a001",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "rwm",
+        "release_date": "2024-01-29T14:35:07.965460",
+        "Days_after_release": 10
+    },
+    "ieUSC": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-19T09:04:42.259000Z",
+        "seats": [
+            {
+                "seat_no": "a002",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "ieUSC",
+        "release_date": "2024-01-29T14:35:12.217666",
+        "Days_after_release": 10
+    },
+    "0H": {
+        "title": "string",
+        "genre": "string",
+        "current_date": "2024-01-19T10:00:45.937000Z",
+        "seats": [
+            {
+                "seat_no": "string",
+                "status": "available"
+            }
+        ],
+        "duration": 0,
+        "id": "0H",
+        "release_date": "2024-01-29T15:30:50.790792",
+        "Days_after_release": 10
+    },
+    "0PGpf": {
+        "title": "salaar",
+        "genre": "action",
+        "current_date": "2024-01-19T10:00:45.937000Z",
+        "seats": [
+            {
+                "seat_no": "B14",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "0PGpf",
+        "release_date": "2024-01-29T15:31:27.455535",
+        "Days_after_release": 10
+    },
+    "x2q": {
+        "title": "salaar",
+        "genre": "action",
+        "current_date": "1970-01-01T00:02:03Z",
+        "seats": [
+            {
+                "seat_no": "B14",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "x2q",
+        "release_date": "2024-01-29T15:31:44.263281",
+        "Days_after_release": 28
+    },
+    "Hy": {
+        "title": "salaar",
+        "genre": "romance",
+        "current_date": "1970-01-01T00:02:03Z",
+        "seats": [
+            {
+                "seat_no": "B14",
+                "status": "booked"
+            }
+        ],
+        "duration": 0,
+        "id": "Hy",
+        "release_date": "2024-01-29T15:32:04.124489",
+        "Days_after_release": 28
+    }
+}
